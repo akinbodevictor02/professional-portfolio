@@ -61,7 +61,7 @@ function App() {
               </p>
               <span>React+CSS+UI/UX</span>
             <div className="project-links">
-              <a href="https://github.com/akinbodevictor02/professional-portfolio.git"
+              <a href="https://github.com/akinbodevictor02.github.io/professional-portfolio"
                 target="_blank"
                 rel="noopener noreferrer"
                 >
