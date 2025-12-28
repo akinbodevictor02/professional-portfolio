@@ -1,0 +1,22 @@
+.fade-in {
+    opacity: 0;
+    animation: fade 1s ease forwards;
+}
+
+.slide-up {
+    opacity: 0;
+    transform: translate(40px);
+    animation: slideUp 1s ease forwards;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}@keyframes slideUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
